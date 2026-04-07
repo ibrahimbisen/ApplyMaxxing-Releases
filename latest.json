@@ -1,10 +1,10 @@
 {
-  "version": "0.3.0",
+  "version": "0.3.1",
   "releaseDate": "2026-04-07",
-  "changelog": "First Electron desktop build — app now ships as a native .dmg installer.",
+  "changelog": "Added custom app icon; bug fixes and improvements",
   "downloads": {
-    "windows": "https://github.com/ibrahimbisen/ApplyMaxxing-Releases/releases/download/v0.3.0/ApplyMaxxing-0.3.0-Setup.exe",
-    "mac": "https://github.com/ibrahimbisen/ApplyMaxxing-Releases/releases/download/v0.3.0/ApplyMaxxing-0.3.0-arm64.dmg",
-    "linux": "https://github.com/ibrahimbisen/ApplyMaxxing-Releases/releases/download/v0.3.0/ApplyMaxxing-0.3.0.AppImage"
+    "windows": "https://github.com/ibrahimbisen/ApplyMaxxing-Releases/releases/download/v0.3.1/ApplyMaxxing-0.3.1-Setup.exe",
+    "mac": "https://github.com/ibrahimbisen/ApplyMaxxing-Releases/releases/download/v0.3.1/ApplyMaxxing-0.3.1-arm64.dmg",
+    "linux": "https://github.com/ibrahimbisen/ApplyMaxxing-Releases/releases/download/v0.3.1/ApplyMaxxing-0.3.1.AppImage"
   }
 }
