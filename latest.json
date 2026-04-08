@@ -1,10 +1,8 @@
 {
-  "version": "0.3.1",
-  "releaseDate": "2026-04-07",
-  "changelog": "Added custom app icon; bug fixes and improvements",
+  "version": "0.4.0",
+  "releaseDate": "2026-04-08",
+  "changelog": "See release notes",
   "downloads": {
-    "windows": "https://github.com/ibrahimbisen/ApplyMaxxing-Releases/releases/download/v0.3.1/ApplyMaxxing-0.3.1-Setup.exe",
-    "mac": "https://github.com/ibrahimbisen/ApplyMaxxing-Releases/releases/download/v0.3.1/ApplyMaxxing-0.3.1-arm64.dmg",
-    "linux": "https://github.com/ibrahimbisen/ApplyMaxxing-Releases/releases/download/v0.3.1/ApplyMaxxing-0.3.1.AppImage"
+    "mac": "https://github.com/ibrahimbisen/ApplyMaxxing-Releases/releases/download/v0.4.0/ApplyMaxxing-0.4.0-arm64.dmg"
   }
 }
