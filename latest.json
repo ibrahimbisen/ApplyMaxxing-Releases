@@ -1,8 +1,8 @@
 {
-  "version": "0.4.21",
+  "version": "0.5.0",
   "releaseDate": "2026-04-10",
-  "changelog": "See release notes",
+  "changelog": "Update box final test",
   "downloads": {
-    "mac": "https://github.com/ibrahimbisen/ApplyMaxxing-Releases/releases/download/v0.4.21/ApplyMaxxing-0.4.21-arm64.dmg"
+    "mac": "https://github.com/ibrahimbisen/ApplyMaxxing-Releases/releases/download/v0.5.0/ApplyMaxxing-0.5.0-arm64.dmg"
   }
 }
