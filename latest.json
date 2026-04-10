@@ -1,10 +1,10 @@
 {
-  "version": "0.6.10",
+  "version": "0.6.11",
   "releaseDate": "2026-04-10",
   "changelog": "See release notes",
   "downloads": {
-    "mac": "https://github.com/ibrahimbisen/ApplyMaxxing-Releases/releases/download/v0.6.10/ApplyMaxxing-0.6.10-arm64.dmg",
-    "windows": "https://github.com/ibrahimbisen/ApplyMaxxing-Releases/releases/download/v0.6.10/ApplyMaxxing.Setup.0.6.10.exe",
-    "linux": "https://github.com/ibrahimbisen/ApplyMaxxing-Releases/releases/download/v0.6.10/ApplyMaxxing-0.6.10.AppImage"
+    "mac": "https://github.com/ibrahimbisen/ApplyMaxxing-Releases/releases/download/v0.6.11/ApplyMaxxing-0.6.11-arm64.dmg",
+    "windows": "https://github.com/ibrahimbisen/ApplyMaxxing-Releases/releases/download/v0.6.11/ApplyMaxxing.Setup.0.6.11.exe",
+    "linux": "https://github.com/ibrahimbisen/ApplyMaxxing-Releases/releases/download/v0.6.11/ApplyMaxxing-0.6.11.AppImage"
   }
 }
